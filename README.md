@@ -9,10 +9,14 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Unveiling Happiness Narratives: Are Achievements and Affections the Universal Cornerstones of Joy?
++ This project is conducted by Mansi Singh (mns2168)
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: The aim of selecting "Unveiling Happiness Narratives: Are Achievements and Affections the Universal Cornerstones of Joy?" as the focal point of this data story for the HappyDB dataset is threefold.First,I wanted to better understand the complex interactions between individual accomplishments and affectionate relationships in determining happiness, providing a sophisticated understanding of the stories that people typically identify with joy. Second, it aims to identify any possible gender-specific themes in these sentences, allowing for a greater comprehension of various viewpoints on happiness. Finally, this investigation can help create communities that are more in line with the essential components of pleasure, thereby informing programs and regulations that promote wellbeing on a larger scale.
+
+
+
+
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
